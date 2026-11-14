@@ -526,3 +526,9 @@ Changes:
 -Buffed Lich: May capture Military units with 20% chance
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Correções técnicas - Soulforged Colonizer
+- Corrigidas vírgulas ausentes nos arquivos JSON que impediam a leitura correta.
+- Recriada a unidade Soulforged Colonizer, exclusiva de Thanatos Theocracy.
+- A unidade pode ser comprada por 50 Souls, funda uma cidade e não pode ser produzida normalmente.
+- Observação: a concessão automática de edifícios somente quando a cidade é fundada por esta unidade não foi adicionada, pois o gatilho JSON padrão do Unciv identifica a fundação de cidade, mas não distingue qual unidade realizou a fundação.
