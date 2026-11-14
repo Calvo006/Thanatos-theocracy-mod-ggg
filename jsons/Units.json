@@ -3132,8 +3132,7 @@
     "requiredTech": "Agriculture",
     "uniques": [
       "Founds a new city",
-      "Can be purchased for [50] [Soul] [in all cities]",
-      "Unbuildable",
+      "Costs [50] [Soul]",
       "Uncapturable"
     ],
     "civilopediaText": [
