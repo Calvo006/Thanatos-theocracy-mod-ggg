@@ -52,7 +52,7 @@
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 10},
-		"requiredTech": "Metal Casting"
+		"requiredTech": "Metal Casting",
 		"uniques": ["[20]% Food is carried over after population increases [in this city]", "[+1 Production] from [Tundra] tiles [in this city]"],
 		"civilopediaText": [
 			{"text": "A place for storage, both food and non-food. To protect it from the harsh cold of the arctic."},
@@ -505,7 +505,7 @@
 		"specialistSlots": {"Zen Overseer": 1},
 		"isNationalWonder": true,
 		"uniques": ["Free Great Person", "Automatically built in all cities where it is buildable",
-					"Only available <in cities with a [Palace]> <if [Pillar of Learning] is constructed> <if [Pillar of Life] is constructed> <if [Pillar of Faith] is constructed> <if [Pillar of Wealth] is constructed> <if [Pillar of Legacy] is constructed>"
+					"Only available <in cities with a [Palace]> <if [Pillar of Learning] is constructed> <if [Pillar of Life] is constructed> <if [Pillar of Faith] is constructed> <if [Pillar of Wealth] is constructed> <if [Pillar of Legacy] is constructed>",
 					"Unsellable", "Never destroyed when the city is captured",
 					"Will not be displayed in Civilopedia"],
 		"replacementTextForUniques": "Free Great Person"
@@ -723,7 +723,7 @@
 		"name": "Bulwark",
 		"uniqueTo": "Lyrian Kingdom",
 		"replaces": "Walls",
-		"cityStrength": 5
+		"cityStrength": 5,
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
 		"requiredTech": "Masonry",
@@ -1023,7 +1023,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"],
 		"civilopediaText": [
 			{"text": "A temple to the Sun, decorated with the everburning flame inside. The temple is well guarded to prevent the everburning flame to be stolen."},
         ]
@@ -1054,7 +1054,7 @@
 		"cost": 50,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["Only available <when religion is enabled>", "Comment [+1 Scientist slot]"]
+		"uniques": ["Only available <when religion is enabled>", "Comment [+1 Scientist slot]"],
 		"civilopediaText": [
 			{"text": "The Precursors study the secrets of the arcane in this place."},
         ]
@@ -1063,7 +1063,7 @@
 	//Celestial Beings
 	{
 		"name": "Curative Spire",
-		"uniqueTo": "Celestial Beings"
+		"uniqueTo": "Celestial Beings",
 		"cost": 30,
 		"cityStrength": 2.5,
 		"cityHealth": 25,

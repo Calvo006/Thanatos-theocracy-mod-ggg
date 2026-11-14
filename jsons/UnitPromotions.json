@@ -131,7 +131,7 @@
 	{
 		"name": "[Lich] ability",
 		"uniques": ["May capture killed [Military] units <with [67]% chance>"]
-	}
+	},
 	
 	//Sacred Sun Theocracy~~~~~~~
 	{
@@ -235,13 +235,13 @@
 	{
 		"name": "[Orc Brute] ability",
 		"uniques": ["[-10]% Strength <when defending>", "[+20]% Strength <when attacking>"]
-	}
+	},
 	
 	//The Wizard Council~~~~~~~
 	{
 		"name": "Dome of Protection",
 		"uniques": ["Comment [+15% Strength for adjacent allies when defending against ranged attacks]", "Protection <hidden from users>"]
-	}
+	},
 
 	//The Chroniclers~~~~~~~
 	{
@@ -823,7 +823,7 @@
 	},
 	{
 		"name": "Invisible",
-		"uniques": ["Invisible to others", "Invisibility"
+		"uniques": ["Invisible to others", "Invisibility",
 					"[+1]% Strength <hidden from users>",],
 	},
 	{
@@ -1092,7 +1092,7 @@
 	},
 	{
 		"name": "Mana Shield Cooldown",
-		"uniques": ["Comment [Mana Shield is on cooldown.]"
+		"uniques": ["Comment [Mana Shield is on cooldown.]",
 					"Mana Shield CD"]
 	},
 	
@@ -1869,13 +1869,13 @@
 					
 		],
         "civilopediaText": [
-			{"text": "[Aspect of Tiger]: Attack applies [Bleeding] for 2 turns"}
-			{"text": "[Aspect of Spider]: Attack applies [Slowed] for 2 turns"}
-			{"text": "[Aspect of Bull]: Attack applies [Disoriented] for 1 turn"}
-			{"text": "[Aspect of Eagle]: Gain Flying"}
-			{"text": "[Aspect of Tortoise]: Reduces damage taken by 10"}
-			{"text": "[[Aspect of Horse]: +1 Movement"}
-			{"text": "[[Aspect of Owl]: +2 Sight, can see over obstacle and can see Invisibility unit"}
+			{"text": "[Aspect of Tiger]: Attack applies [Bleeding] for 2 turns"},
+			{"text": "[Aspect of Spider]: Attack applies [Slowed] for 2 turns"},
+			{"text": "[Aspect of Bull]: Attack applies [Disoriented] for 1 turn"},
+			{"text": "[Aspect of Eagle]: Gain Flying"},
+			{"text": "[Aspect of Tortoise]: Reduces damage taken by 10"},
+			{"text": "[[Aspect of Horse]: +1 Movement"},
+			{"text": "[[Aspect of Owl]: +2 Sight, can see over obstacle and can see Invisibility unit"},
 			{"text": "[[Aspect of Seal]: This unit is [Water Creature]"}
 		]
 	},
@@ -1952,7 +1952,7 @@
 					"Eliminates combat penalty for attacking over a river <hidden from users>",
 					"[-15]% Strength <vs [Melee Water]> <hidden from users>",
 					"[-15]% Strength <vs [Ranged Water]> <hidden from users>",
-					"[-15]% Strength <vs [Submarine]> <hidden from users>"
+					"[-15]% Strength <vs [Submarine]> <hidden from users>",
 					"[This Unit] gains the [Polymorphic Cooldown] status for [5] turn(s) <upon gaining the [Aspect of Seal] status> <hidden from users>",
 		]
 	},
@@ -2102,7 +2102,7 @@
 	{
 		"name": "Baned",
 		"uniques": ["[This Unit] takes [5] damage <upon losing at least [1] HP in a single attack>",
-					"[Target Unit] heals [5] HP <upon damaging a [All] unit>"
+					"[Target Unit] heals [5] HP <upon damaging a [All] unit>",
 					"[-1]% Strength <hidden from users>",
 					],
 	},
@@ -2116,7 +2116,7 @@
 	},
 	{
 		"name": "Binded",
-		"uniques": ["[-99] Movement"
+		"uniques": ["[-99] Movement",
 					"[-1]% Strength <hidden from users>",
 					],
 	},
@@ -2156,13 +2156,13 @@
 	},
 	{
 		"name": "Broken",
-		"uniques": ["No defensive terrain bonus"
+		"uniques": ["No defensive terrain bonus",
 					"[-1]% Strength <hidden from users>",
 					]
 	},
 	{
 		"name": "Chained",
-		"uniques": ["[-3] Movement"
+		"uniques": ["[-3] Movement",
 					"[-1]% Strength <hidden from users>",
 					],
 	},
@@ -2232,7 +2232,7 @@
 	{
 		"name": "Infected",		
 		"uniques": [
-					"[-10]% Strength"
+					"[-10]% Strength",
 					"Comment [Takes 10 damage at turn start]",
 					
 					"[This Unit] takes [10] damage <upon turn start> <hidden from users>",
